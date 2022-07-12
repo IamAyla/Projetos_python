@@ -7,3 +7,4 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus conhecimentos em py
 - Calculadora de gorjetas
 - Jogo de flechas
 - Script de NPC em um RPG
+- Código para uma máquina de refrigerante
