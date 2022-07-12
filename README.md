@@ -6,3 +6,4 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus conhecimentos em py
 - Transformador de DNA para RNA
 - Calculadora de gorjetas
 - Jogo de flechas
+- Script de NPG em um RPG
