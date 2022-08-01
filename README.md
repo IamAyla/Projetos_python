@@ -11,3 +11,4 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus conhecimentos em py
 - Código para uma máquina de refrigerante
 - Calculadora de IMC
 - Jokenpô
+- Gerador de cupons
