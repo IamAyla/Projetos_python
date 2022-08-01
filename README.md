@@ -12,3 +12,4 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus conhecimentos em py
 - Calculadora de IMC
 - Jokenpô
 - Gerador de cupons
+- Dados de um jogo 
